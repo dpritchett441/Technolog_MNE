@@ -1,4 +1,4 @@
-# Technolog_MNE
+# Technolog MNE
 
 [![Technolog Logo](/Media/Technolog_Logo.jpg)](https://www.technolog.com/)
 
