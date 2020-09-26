@@ -1,10 +1,7 @@
-# Technolog_MNE
-Technolog MNE is part of an in-house solution to a Bitlocker management solution.
-
-## Latest Release
+# Change Log
 - v1.1
     * Complexity requirements changed to require 15 characters (previously 8)
     * Note added to not include special characters (@,#,!,$,&,etc)
     * Recovery key is now backed up to active directory after the encryption process begins
-
-For a full list of releases please check the [Change Log](CHANGELOG.md)
+- v1.0
+    * Initial creation
