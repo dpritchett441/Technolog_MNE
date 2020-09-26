@@ -1,6 +1,6 @@
 # Technolog_MNE
 
-![Technolog Logo](/Media/Technolog_Logo.jpg)
+[![Technolog Logo](/Media/Technolog_Logo.jpg)](https://www.technolog.com/)
 
 Technolog MNE is part of an in-house solution to a Bitlocker management solution.
 
