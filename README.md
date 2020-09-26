@@ -1,6 +1,6 @@
 # Technolog_MNE
 
-[Technolog Logo](/Media/Technolog_Logo.png)
+![Technolog Logo](/Media/Technolog_Logo.jpg)
 
 Technolog MNE is part of an in-house solution to a Bitlocker management solution.
 
@@ -8,7 +8,7 @@ Technolog MNE is part of an in-house solution to a Bitlocker management solution
 
 Once the PowerShell script is ran the user will be presented with the below form, in which they have to enter their desired password. It is advised **against** the use of special characters as the Bitlocker pre-boot environment uses a US keyboard layout. As such special characters won't line up 100% of the time.
 
-[MNE GUI](/Samples/MNE_GUI.png)
+![MNE GUI](/Samples/MNE_GUI.png)
 
 Upon successfully entering a password that meets the complexity requirements the encryption process will begin. A recovery password will be generate, which can be backed up into active directory. If you're connect to the corporate network when the script is ran, this is done automatically.
 
@@ -25,20 +25,20 @@ For a full list of releases please check the [Change Log](CHANGES.md)
 
 #### Encryption of system volume has started
 
-[Start Notification](/Samples/Start_Notification.png)
+![Start Notification](/Samples/Start_Notification.png)
 
 #### Encryption of system volume has completed
 
-[End Notifiction](/Samples/End_Notification.png)
+![End Notifiction](/Samples/End_Notification.png)
 
 #### An error occured whilst trying to begin the encryption process
 
-[Error Notification](/Samples/Error_Notification/png)
+![Error Notification](/Samples/Error_Notification/png)
 
 #### Passwords do not match
 
-[Mismatch Error](/Samples/Mismatch_Error.png)
+![Mismatch Error](/Samples/Mismatch_Error.png)
 
 #### Password does not meet the required complexity
 
-[Complexity Error](/Samples/Complexity_Error.png)
+![Complexity Error](/Samples/Complexity_Error.png)
