@@ -14,10 +14,9 @@ Upon successfully entering a password that meets the complexity requirements the
 
 ## Latest Release
 
-- v1.1
-    * Complexity requirements changed to require 15 characters (previously 8)
-    * Note added to not include special characters (@,#,!,$,&,etc)
-    * Recovery key is now backed up to active directory after the encryption process begins
+- v1.2
+    * Border added to GUI to help offset from background
+    * Notification created to display successful password change
 
 For a full list of releases please check the [Change Log](CHANGES.md)
 
@@ -30,6 +29,10 @@ For a full list of releases please check the [Change Log](CHANGES.md)
 #### Encryption of system volume has completed
 
 ![End Notifiction](/Samples/End_Notification.PNG)
+
+#### Password was changed successfully
+
+![Password Change Notification](/Samples/Password_Change.PNG)
 
 #### An error occured whilst trying to begin the encryption process
 
