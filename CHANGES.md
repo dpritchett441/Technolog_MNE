@@ -1,4 +1,7 @@
 # Change Log
+- v1.3 (Released: 06/03/2021)
+    * Desktop shortcut creation now occurs at the start of the script
+    * Password change commands updated to improve efficiency
 - v1.2 (Released: 12/10/2020)
     * Border added to GUI to help offset from background
     * Notification created to display successful password change

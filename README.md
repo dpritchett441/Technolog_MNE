@@ -14,9 +14,9 @@ Upon successfully entering a password that meets the complexity requirements the
 
 ## Latest Release
 
-- v1.2
-    * Border added to GUI to help offset from background
-    * Notification created to display successful password change
+- v1.3
+    * Desktop shortcut creation now occurs at the start of the script
+    * Password change commands updated to improve efficiency
 
 For a full list of releases please check the [Change Log](CHANGES.md)
 
